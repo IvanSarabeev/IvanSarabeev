@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanSarabeev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript - jQuery, PhP.
-- 💞️ I’m looking to collaborate with IT firm that can help me in the web development
+- 🌱 I’m currently learning JavaScript - jQuery, PhP and AjaX.
+- 💞️ I’m looking to collaborate with IT firm that can help me in the web development process.
 - 📫 You can reach me via email: ivan.sarabeev99@gmail.com
 
 <!---
