@@ -2,7 +2,6 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JavaScript - jQuery, PhP and AjaX.
 - 💞️ I’m looking to collaborate with IT firm that can help me in the web development process.
-- 📫 You can reach me via email: ivan.sarabeev99@gmail.com
 
 <!---
   Hello, there I'm Ivan Sarabeev programmer and an athlete. I'am programing from around 2 and a half years, at university and at my spare time. 
