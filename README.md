@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanSarabeev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript - jQuery, PhP and AjaX.
-- 💞️ I’m looking to collaborate with IT firm that can help me in the web development process.
+- 🌱 I’m currently learning JavaScript - VueJS and TailWind.
+- 💞️ I’m looking to collaborate with firm's that can help me in the web development process.
 
 <!---
   Hello, there I'm Ivan Sarabeev programmer and an athlete. I'am programing from around 2 and a half years, at university and at my spare time. 
