@@ -1,16 +1,47 @@
-### Hi there 👋
+# 🏄‍♂️ Ivan Sarabeev
 
-<!--
-**IvanSarabeev/IvanSarabeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Digital Craftsman (Developer/Creator)`**
 
-Here are some ideas to get you started:
+I'm an front-end developer and hockey coach building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing. I am enthusiastic about embarking on my proffessional journey in web development and constatnly seeking new challenges and growth opportunities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  <a href="https://www.linkedin.com/in/ivansarabeev/" target="_blank" round>
+    <img src=https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>  
+  <a href="https://www.facebook.com/ivan.sarabeev" target="_blank">
+    <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+  </a>  
+</div>  
+
+---
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="HTML" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Tailwind" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="JavaScript" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="PHP" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="GitHub" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="VsCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<br />
+
+#
+
+### 📊 Stats
+![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivansarabeev&theme=tokyonight&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+#
+
+<details>
+ <summary><h3>👨‍💻 My Coding Journey</h3></summary>
+  &nbsp; I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, theory. And all the while, teaching myself Web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in JavaScript. A desire that I hope to land me a full-stack software engineering job upon graduation.My goal is to transform complex problems into elegant and user-friednly solutions, driven by my passion for creating beautiful and intuitive web experience.
+I am dedicated to effectively communicating your message and brand identity through creative and innovative web solutions. I take pride in my work, such as the development of HCVarna, a website dedicated to our hockey family, showcasing our team's achievments and fostering strong connections within the community..
+</details>
