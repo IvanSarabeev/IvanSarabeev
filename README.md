@@ -33,13 +33,10 @@ I'm an front-end developer and hockey coach building my version of the digital w
 #
 
 ### 📊 Stats
-![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivansarabeev&theme=tokyonight&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
-
 #
-
+<br />
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   &nbsp; I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, theory. And all the while, teaching myself Web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in JavaScript. A desire that I hope to land me a full-stack software engineering job upon graduation.My goal is to transform complex problems into elegant and user-friednly solutions, driven by my passion for creating beautiful and intuitive web experience.
