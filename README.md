@@ -28,12 +28,14 @@ I'm an front-end developer and hockey coach building my version of the digital w
   <img align="left" alt="Symfony" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
   <img align="left" alt="NodeJS" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="left" alt="MySQL" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="left" alt="Docker" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="left" alt="VsCode" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
-#
-<br />
+<br>
+--------------------
+
 <details>
  <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   &nbsp; I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, theory. And all the while, teaching myself Web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in JavaScript. A desire that I hope to land me a full-stack software engineering job upon graduation.My goal is to transform complex problems into elegant and user-friednly solutions, driven by my passion for creating beautiful and intuitive web experience.
