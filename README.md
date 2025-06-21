@@ -23,7 +23,6 @@ I'm an front-end developer and hockey coach building my version of the digital w
   <img align="left" alt="JavaScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align="left" alt="TypeScript" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />      
   <img align="left" alt="React" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="left" alt="Redux Toolkit" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg" />
   <img align="left" alt="MobX" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mobx/mobx-original.svg" />          
   <img align="left" alt="PHP" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="left" alt="Symfony" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
@@ -34,14 +33,13 @@ I'm an front-end developer and hockey coach building my version of the digital w
   <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
   <img align="left" alt="Docker" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  <img align="left" alt="Git" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
+  <img align="left" alt="Jira" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img align="left" alt="Elastic" width="35px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/elasticsearch/elasticsearch-original.svg" />
           
         
 </div>
 
 <br style="display:block;">
 
- <summary><h3>👨‍💻 My Coding Journey</h3></summary>
   &nbsp; I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, theory. And all the while, teaching myself Web development with a dream to build my own app, but that soon got overshadowed by my desire to excel in JavaScript. A desire that I hope to land me a full-stack software engineering job upon graduation.My goal is to transform complex problems into elegant and user-friednly solutions, driven by my passion for creating beautiful and intuitive web experience.
 I am dedicated to effectively communicating your message and brand identity through creative and innovative web solutions. I take pride in my work, such as the development of HCVarna, a website dedicated to our hockey family, showcasing our team's achievments and fostering strong connections within the community..
